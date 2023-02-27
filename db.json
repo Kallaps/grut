@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "title": "headphones",
+      "price": "120",
+      "descr": "very dood",
+      "image": "https://i.pinimg.com/236x/bc/7e/68/bc7e68a95d8942e21d1767eccee41c9d.jpg",
+      "id": 2
+    },
+    {
+      "title": "Kofta",
+      "price": "200",
+      "descr": "very cozy",
+      "image": "https://i.pinimg.com/236x/6f/73/44/6f7344a3fdc1b45bc614664acec1c0ad.jpg",
+      "id": 3
+    },
+    {
+      "title": "necklace",
+      "price": "20",
+      "descr": "very cheap",
+      "image": "https://i.pinimg.com/236x/57/b0/5c/57b05c73940c6e7824a559654dbee0a6.jpg",
+      "id": 4
+    },
+    {
+      "title": "haur clips",
+      "price": "20",
+      "descr": "for hair",
+      "image": "https://i.pinimg.com/236x/b0/26/44/b02644ed2bbc698e1770073f8eec6370.jpg",
+      "id": 5
+    },
+    {
+      "title": "mary jane boots",
+      "price": "200",
+      "descr": "comfy",
+      "image": "https://i.pinimg.com/236x/cf/a2/95/cfa295c534d5c066a7fa5eabb60735cd.jpg",
+      "id": 6
+    },
+    {
+      "title": "kochelki",
+      "price": "60",
+      "descr": "cute",
+      "image": "https://i.pinimg.com/236x/3f/0c/e0/3f0ce079ef35bcb38fbcf72a5845d6aa.jpg",
+      "id": 7
+    }
+  ]
+}
