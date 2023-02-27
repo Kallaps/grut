@@ -8,6 +8,7 @@ let descr = document.querySelector("#descr");
 let image = document.querySelector("#image");
 let btnAdd = document.querySelector("#btn-add");
 
+console.log("Han from tok");
 // input для edit
 
 let editTitle = document.querySelector("#edit-title");
