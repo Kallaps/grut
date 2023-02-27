@@ -1,5 +1,7 @@
 const API = "http://localhost:8000/products";
 
+console.log("Good morning!!!<3");
+
 console.log("alima is changing your project");
 //?  переменные для инпутов: добавление товара
 
